@@ -172,7 +172,7 @@
         <mxCell id="Pri9mb5PsP8Bi35zH-9R-0" value="按键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="530" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pri9mb5PsP8Bi35zH-9R-2" value="下板TX/RX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Pri9mb5PsP8Bi35zH-9R-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;下板TX/RX&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="450" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pri9mb5PsP8Bi35zH-9R-3" value="通讯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
