@@ -150,13 +150,13 @@
           <mxGeometry x="395" y="530" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-41" value="TF卡槽" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="520" width="70" height="20" as="geometry" />
+          <mxGeometry x="480" y="530" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-44" value="电极接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="530" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pri9mb5PsP8Bi35zH-9R-0" value="TF卡槽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="540" width="70" height="20" as="geometry" />
+        <mxCell id="Pri9mb5PsP8Bi35zH-9R-0" value="按键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="530" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
