@@ -81,7 +81,7 @@
           <mxGeometry x="120" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-22" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt; ADM7170ACPZ-3.3-R7转换&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;无控制&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="390" width="130" height="30" as="geometry" />
+          <mxGeometry x="90" y="340" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-23" value="AD5941" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="530" width="70" height="20" as="geometry" />
