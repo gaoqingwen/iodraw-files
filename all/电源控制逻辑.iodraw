@@ -109,6 +109,11 @@
         <mxCell id="Pri9mb5PsP8Bi35zH-9R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xo7LybBw6Uu_M0N1Nz9d-12" target="Pri9mb5PsP8Bi35zH-9R-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Pri9mb5PsP8Bi35zH-9R-5" value="CH340" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pri9mb5PsP8Bi35zH-9R-4">
+          <mxGeometry x="0.5091" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-12" value="3.3V" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="350" width="100" height="40" as="geometry" />
         </mxCell>
