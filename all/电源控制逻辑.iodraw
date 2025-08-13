@@ -128,6 +128,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Pri9mb5PsP8Bi35zH-9R-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xo7LybBw6Uu_M0N1Nz9d-12" target="Pri9mb5PsP8Bi35zH-9R-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-12" value="3.3V" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="350" width="100" height="40" as="geometry" />
         </mxCell>
