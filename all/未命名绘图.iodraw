@@ -40,7 +40,7 @@
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;TP4056芯片，优先Vbus输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="240" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xo7LybBw6Uu_M0N1Nz9d-22" target="Xo7LybBw6Uu_M0N1Nz9d-20">
+        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xo7LybBw6Uu_M0N1Nz9d-11" target="Xo7LybBw6Uu_M0N1Nz9d-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xo7LybBw6Uu_M0N1Nz9d-11" target="Xo7LybBw6Uu_M0N1Nz9d-25">
@@ -82,6 +82,9 @@
         </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-20" value="3.3V2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-22" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt; ADM7170ACPZ-3.3-R7转换&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;无控制&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75" y="270" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-23" value="AD5941" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="530" width="70" height="20" as="geometry" />
@@ -128,15 +131,6 @@
         </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-44" value="电极接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="530" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xo7LybBw6Uu_M0N1Nz9d-11" target="Xo7LybBw6Uu_M0N1Nz9d-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="370" as="sourcePoint" />
-            <mxPoint x="170" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-22" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt; ADM7170ACPZ-3.3-R7转换&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;无控制&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="105" y="390" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
