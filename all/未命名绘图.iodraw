@@ -65,6 +65,11 @@
         </mxCell>
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-49" value="&lt;div style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;ADM7170ACPZ-3.3-R7&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xo7LybBw6Uu_M0N1Nz9d-21">
           <mxGeometry x="0.5031" y="-1" relative="1" as="geometry">
+            <mxPoint x="-69" y="-108" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-59" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xo7LybBw6Uu_M0N1Nz9d-21">
+          <mxGeometry x="0.43" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
