@@ -26,8 +26,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-56" value="&lt;span style=&quot;font-size: 8px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;EN_V5控制&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xo7LybBw6Uu_M0N1Nz9d-13">
-          <mxGeometry x="0.5237" y="1" relative="1" as="geometry">
+        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-58" value="EN_V5控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xo7LybBw6Uu_M0N1Nz9d-13">
+          <mxGeometry x="0.5324" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
