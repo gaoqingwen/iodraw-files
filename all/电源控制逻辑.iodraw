@@ -146,7 +146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-62" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;EN_VSCAN&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Xo7LybBw6Uu_M0N1Nz9d-33" vertex="1" connectable="0">
+        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-62" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;EN_VSCAN&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Xo7LybBw6Uu_M0N1Nz9d-33" vertex="1" connectable="0">
           <mxGeometry x="0.3813" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
