@@ -178,7 +178,7 @@
         <mxCell id="Pri9mb5PsP8Bi35zH-9R-3" value="通讯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="450" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pri9mb5PsP8Bi35zH-9R-7" value="按键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Pri9mb5PsP8Bi35zH-9R-7" value="IO扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="530" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
