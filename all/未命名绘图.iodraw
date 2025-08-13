@@ -10,6 +10,9 @@
         <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-1" value="BAT&lt;div&gt;(电池输入&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="170" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Xo7LybBw6Uu_M0N1Nz9d-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
